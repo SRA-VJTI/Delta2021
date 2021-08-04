@@ -19,11 +19,18 @@
  - The Contest is **hosted by** the Chinese Association of Automation **(CAA)** and sponsored by the Chinese Association of Automation, and the Industry and Information Industry Vocational Education Teaching Steering Committee **under the Ministry of Education**. It is an innovative technology competition for automation, smart manufacturing solutions and green technology applications organized by the **Delta Group**.
 
 # Proposal
-- Our Team DNS proposed  
-- 
-- 
+- Our Team DNS proposed the Pick Sort Place Bot
+- So after researching on some trends and practices currently followed in the packaging industry, we noticed that there were shortcomings in case of:
+  * Variable sized item packaging
+  * Location based item packaging
+  * Custom subscription box based packaging
+- And we took to solving that with our [proposed idea](https://github.com/SRA-VJTI/Delta2021/blob/main/docs/proposal/delta2021090_PSP_Bot_Proposal.pdf)
 
 # Design
+- After experimenting and designing our structure, we emulated the material to be used by considering the following:
+  * Material Strength
+  * Stress, material and displacement analysis
+  * Material Availability
 
 
 # Algorithms
