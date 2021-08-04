@@ -42,3 +42,5 @@
 # Competition Snaps
 
 # Results
+
+![](https://github.com/SRA-VJTI/Delta2021/blob/main/assets/result.jpeg)
