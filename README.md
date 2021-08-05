@@ -73,7 +73,7 @@ We are trying to implement a 3D binary packaging algorithm to reduce wastage of 
 <tr>
 
 ### 3D Packaging
-<img src="assets/algo_3d.png" width="700" height="700"></tr>
+<img src="assets/algo_3d.png" width="400" height="400"></tr>
 </table>
 
 
