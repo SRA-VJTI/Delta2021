@@ -54,7 +54,7 @@ The complete mechanical structure is designed in **Solidworks2021**. Dimensions,
 
 
 ## Journey
-<video src="https://youtu.be/JBdjbeT3EMY"> </video>
+<img src="assets/Demo_1_video.gif" width="800">
 
 
 ## Algorithms
@@ -82,11 +82,8 @@ We are trying to implement a 3D binary packaging algorithm to reduce wastage of 
 2. **DOPsoft** - To design and program the Human Machine Interface - HMI.
 
 ## Competition Snaps
-1. X Y Motion
-
-<video width="99%" height="540" autoplay loop muted markdown="1"> <source src="/assets/x_y_motion.mp4" type="video/mp4" markdown="1" > </video>
-
-
+### X Y Axis Motion
+<img src="assets/x_y_motion.gif" width="650" height="900">
 
 ## Products Used
 ### 1. PLC - Motion Controller 
@@ -138,13 +135,13 @@ We are trying to implement a 3D binary packaging algorithm to reduce wastage of 
 ## Organizations
 - [VJTI](https://www.vjti.ac.in/)
 - [SRA-VJTI](https://sravjti.in/)
-- [COE-VJTI](#)
+- [COE-VJTI](https://www.vjti.ac.in/images/coe-cnds/project/index.html)
+- [Absolute Motion Pvt Ltd](https://absolutemotion.in/)
 
 ## References
 
-1. [Introductory Video](https://drive.google.com/file/d/1n-ufpEhYkESncekvCkzQA4pExaC0HES2/view?usp=sharing)
+1. [Introductory Video](https://youtu.be/Td_gTH8elXg)
 2. [Journey and Demo Video](https://youtu.be/JBdjbeT3EMY)
-3. [Demo Video](https://drive.google.com/file/d/1n-ufpEhYkESncekvCkzQA4pExaC0HES2/view?usp=sharing)
-4. [Assets Drive](https://drive.google.com/drive/folders/1eHktBK7K1HjE1V3EMghjBojYtxpqFusy)
-5. [PSP BOT Presenatation](https://drive.google.com/file/d/1DYCdZAAVgsz2D3gcIisJAjD5F0XRJo17/view?usp=sharing)
+3. [Demo Video](https://youtu.be/Td_gTH8elXg)
+4. [PSP BOT Presentation](https://github.com/SRA-VJTI/Delta2021/blob/main/docs/presentation/presentation.pdf)
 
