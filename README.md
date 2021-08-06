@@ -114,6 +114,7 @@ We are trying to implement a 3D binary packaging algorithm to reduce wastage of 
 ## Results
 - Representing India, Team DNS and VJTI bagged a rank under **Top 40** globally winning the **Second Prize** category.
 <img src="assets/result.jpeg">
+<img src="assets/delta_result.jpeg">
 
 ## Prizes and Achievements
 1. Trophy Shield - Second Prize category
